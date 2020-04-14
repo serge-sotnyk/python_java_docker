@@ -1,1 +1,1 @@
-docker build -t atepeq/python_java_docker:0.0.1 -t atepeq/python_java_docker:latest -f Dockerfile .
+docker build -t atepeq/python_java_docker:0.0.2 -t atepeq/python_java_docker:latest -f Dockerfile .
