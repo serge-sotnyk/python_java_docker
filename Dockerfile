@@ -1,4 +1,4 @@
-FROM python:3.7.7
+FROM python:3.8
 
 # Install OpenJDK-11
 RUN apt-get update && \
